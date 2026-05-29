@@ -4,11 +4,11 @@
 </p>
 
 <!-- SECTION A: ANIMATED HEADER -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Poojitha+%F0%9F%91%8B;Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%2B+React+Enthusiast+%E2%9C%A8;Problem+Solving+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Poojitha+%F0%9F%91%8B;Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%2B+React+Enthusiast+%E2%9C%A8;Problem+Solving+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
-<br/>
 
 <!-- SECTION B: ABOUT ME -->
 ## 🌟 About Me
