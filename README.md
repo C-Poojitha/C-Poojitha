@@ -22,7 +22,7 @@ I'm passionate about learning and building skills in full stack development — 
 |---|---|
 | 🎓 **Education** | B.Tech in CSE — KSRM College of Engineering **(83%)** |
 | 💼 **Training** | Full Stack Web Development — TAP Academy *(Jun–Dec 2025)* |
-| 🛠️ **Experience** | Spring Boot MVC · CRUD APIs · Postman Testing · Frontend-Backend Integration |
+| 🛠️ **Technical Skills** | Core Java · Spring Boot · React.js · JavaScript · HTML · CSS · MySQL |
 | 🏅 **Certifications** | Full Stack Web Development · ServiceNow Certified Application Developer |
 | 🌍 **Location** | Kadapa, Andhra Pradesh, India |
 
@@ -72,45 +72,6 @@ I'm passionate about learning and building skills in full stack development — 
 
 <!-- SECTION F: SOCIAL MEDIA LINKS -->
 ## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:poojitha.ch8125@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/poojitha-c-993582282" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://poojitha-c-fullstack-tv9jgfa.gamma.site/about-me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/poojitha-c" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- SECTION G: GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=poojitha-c&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-
-<!-- SECTION I: ACTIVITY GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poojitha-c&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<!-- SECTION J: FOOTER -->
-## 🤝 Let's Connect & Collaborate
 
 <div align="center">
   <p>
